@@ -1,1 +1,5 @@
-Prova di Git
+import numpy as np
+
+def f():
+    a = 100
+    
