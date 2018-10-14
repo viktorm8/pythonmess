@@ -2,3 +2,5 @@ a = 1000
 print(a)
 b = 12
 c = a + b
+int somma = a + b + c
+
